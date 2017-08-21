@@ -1,6 +1,6 @@
 {
   "name": "slush-ninja-webpack-preact",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Slush file for webpack and preact for ninja init",
   "main": "slushfile.js",
   "scripts": {
